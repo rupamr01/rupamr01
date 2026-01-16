@@ -1,5 +1,7 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Rupam&fontColor=ffffff&fontSize=60)
+
 # 👋 Rupam  
-🧠 BCA Student | ⚙️ C • C++ • Python | 🤖 🚀 Future Systems & Space-Tech Enthusiast
+🧠 BCA Student | ⚙️ C • C++ • Python | 🤖 🚀 Future Systems & Space-Tech Enthusiast  
 
 > Learning the old-school way: **strong fundamentals first**, advanced systems later.
 
@@ -14,23 +16,23 @@ No hype, no shortcuts. Just logic, discipline, and long-term vision.
 **Beliefs I code by:**
 - Strong basics create strong engineers  
 - Hardware never forgives weak logic  
-- Consistency beats motivation
+- Consistency beats motivation  
 
 ---
 
 ## 🛠 Tech Stack & Learning Arsenal
-**Languages I’m actively learning and using:**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+</p>
 
 **Core concepts in focus:**
 - Logic building & problem solving  
 - Loops, conditions, functions  
 - Arrays & strings  
 - Modular, readable code  
-- Intro to file handling
+- Intro to file handling  
 
 ---
 
@@ -51,34 +53,36 @@ These interests guide my learning path and project choices:
 
 - 🔢 **C Calculator**  
   Arithmetic calculator in C  
-  *Focus:* input handling, control flow, clean structure
+  *Focus:* input handling, control flow, clean structure  
 
 - 📊 **Attendance Calculator**  
   Program to calculate attendance percentage and conditions  
-  *Focus:* logic and decision-making
+  *Focus:* logic and decision-making  
 
 - 🐍 **Python Practice Programs** *(ongoing)*  
-  Covers:
-  - Variables & data types  
-  - Conditions & loops  
-  - Beginner logic problems  
+  Variables, loops, conditions, beginner logic problems  
 
 More projects will be added as skills mature.
 
 ---
 
-## 📈 GitHub Stats & Activity
-![Rupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupamr01&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats & Grind
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupamr01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupamr01&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupamr01&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupamr01&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
-- Strengthening **C and C++ fundamentals**
-- Improving **problem-solving discipline**
-- Using Python for automation and practice
-- Preparing for future **Robotics / IoT / Aerospace projects**
+- Strengthening **C and C++ fundamentals**  
+- Improving **problem-solving discipline**  
+- Using Python for automation and practice  
+- Preparing for **Robotics / IoT / Aerospace projects**  
 
 ---
 
@@ -91,9 +95,6 @@ More projects will be added as skills mature.
 ---
 
 ## 🤝 Let’s Connect
-- GitHub: **@rupamr01**
-- Learning in public. Improving quietly.
-
----
+- GitHub: **@rupamr01**  
 
 > *No noise. No pretending. Just progress.*
