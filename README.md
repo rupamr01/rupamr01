@@ -1,91 +1,156 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=160&section=header&text=Rupam%20Rawat&fontColor=ffffff&fontSize=45)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=210&text=Rupam%20Rawat&fontSize=55&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn)
 
-<h2 align="center">Hi 👋 I'm Rupam</h2>
-
-<p align="center">
-BCA Student | Learning Programming Step by Step
-</p>
+<h2 align="center">⚡ Rupam Rawat ⚡</h2>
+<p align="center"><b>BCA Student • Systems Thinker • Space-Tech Aspirant</b></p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rupamr01&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=rupamr01&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
----
+✨━━━━━━━━━━━━━━━━━━━━✨
 
-## 👨‍💻 About Me
+## 🧭 About Me
 
-I am a **BCA first-year student** learning programming fundamentals.
+I’m a **BCA first-year student** focused on mastering **fundamentals before trends**.
 
-Currently focusing on:
-- Building strong logic
-- Writing clean code
-- Understanding how programs work internally
+I believe real engineers are built slowly —  
+through logic, patience, and understanding how systems work beneath the surface.
 
-I believe learning slowly and clearly is better than rushing.
+From **C-level thinking** to **databases and automation**, my goal is simple:
 
----
+> Build skills that still matter 10 years from now.
 
-## 🧰 Languages & Tools
+No shortcuts.  
+No fake confidence.  
+Only depth.
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+✨━━━━━━━━━━━━━━━━━━━━✨
+
+## 🛠 Tech Stack & Tools
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-**Languages:**
-- C  
-- C++  
-- Python  
-- MySQL  
+<p align="center"><b>C • C++ • Python • MySQL</b></p>
 
----
+### Core focus:
+- Logic building & algorithmic thinking  
+- Clean and structured code  
+- Memory-aware programming (beginner level)  
+- Database fundamentals (MySQL)  
+- Discipline-based learning  
 
-## 📘 Currently Learning
+✨━━━━━━━━━━━━━━━━━━━━✨
 
-- C programming fundamentals  
-- C++ basics  
-- Python practice  
-- Database basics (MySQL)  
+## 🧠 Engineering Mindset
 
----
+> “Hardware doesn’t care about excuses.  
+> It only respects correct logic.”
 
-## 🧪 Practice Projects
+- Fundamentals > fancy stacks  
+- Systems thinking > surface coding  
+- Discipline > motivation  
 
-- Simple Calculator in C  
-- Attendance Calculator  
-- Basic Python programs  
+I study software the old-school way — slow, deep, and honest.
 
-More projects will be added as I learn.
+✨━━━━━━━━━━━━━━━━━━━━✨
 
----
+## 🔭 Interests & Future Domains
+
+- 🤖 **Robotics** — logic behind sensors and automation  
+- 🌐 **IoT Systems** — connected devices and control logic  
+- 🚀 **Space & Aerospace Tech** — navigation, flight software, mission systems  
+- ⚙️ **Embedded Systems** — C/C++ close to hardware (future goal)
+
+Currently building the **foundation layer** required for these domains.
+
+✨━━━━━━━━━━━━━━━━━━━━✨
+
+## 📂 Projects
+
+> Small scale. Real logic. No filler.
+
+### 🔢 Calculator in C
+- Arithmetic operations  
+- Input handling  
+- Clean control flow  
+
+### 📊 Attendance Calculator
+- Percentage calculation  
+- Conditional logic  
+- Decision-based output  
+
+### 🐍 Python Practice (Ongoing)
+- Loops & conditions  
+- Beginner automation  
+- Logic drills  
+
+More projects will be added as skills mature.
+
+✨━━━━━━━━━━━━━━━━━━━━✨
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rupamr01&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rupamr01&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupamr01&layout=compact&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupamr01&layout=compact&theme=tokyonight"/>
 </p>
 
+✨━━━━━━━━━━━━━━━━━━━━✨
+
+## 🧪 Learning Style
+
+- 📖 Understand the concept  
+- ✍️ Implement from scratch  
+- 💥 Break the code  
+- 🔧 Fix it properly  
+
+If I can’t explain it simply — I don’t consider it learned.
+
+✨━━━━━━━━━━━━━━━━━━━━✨
+
+## 🧩 What I Avoid (On Purpose)
+
+- ❌ Copy–paste GitHub culture  
+- ❌ Framework jumping  
+- ❌ Pretending expertise  
+
+I’m not chasing speed.  
+I’m building **weight**.
+
+✨━━━━━━━━━━━━━━━━━━━━✨
+
+## 🎯 Current Focus
+
+- Advanced C (arrays, pointers, file handling)  
+- Object-oriented thinking with C++  
+- MySQL fundamentals & queries  
+- Python for scripting and automation  
+- Preparing for system-level & embedded learning  
+
+✨━━━━━━━━━━━━━━━━━━━━✨
+
+## 🏁 Final Note
+
+> Still learning.  
+> Still quiet.  
+> Still dangerous with time.
+
+If you’re here —  
+you’re watching the **foundation phase**.
+
+The real work happens when nobody is clapping.
+
 ---
 
-## 🎯 Goal
-
-To become a skilled software developer by building:
-- Strong fundamentals
-- Problem-solving ability
-- Discipline and consistency
-
----
-
-## 🤝 Connect
-
+### 🤝 Connect
 - GitHub: **@rupamr01**
 
----
-
-> Learning every day. Improving step by step.
+> *No noise. No pretending. Just progress.*
