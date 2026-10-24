@@ -6,6 +6,10 @@
 
 ---
 
+### Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode&theme=light" />
+
 ### About
 
 Second-year BCA student at Graphic Era Hill University, Dehradun (CGPA 8.5). I build practical tools from scratch and look for a **software internship**.
