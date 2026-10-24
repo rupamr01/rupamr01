@@ -8,7 +8,11 @@
 
 ### Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode&theme=light" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode&theme=light">
+  <img alt="Languages and tools" src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode&theme=dark">
+</picture>
 
 ### About
 
