@@ -16,4 +16,4 @@ Second-year BCA student at Graphic Era Hill University, Dehradun (CGPA 8.5). I b
 - [**Gesture Remote**](https://github.com/rupamr01/gesture-remote): control a PC cursor from your phone using gestures (Python)
 - [**Videer**](https://github.com/rupamr01/videer): simple UI wrapper around yt-dlp (Python, HTML, CSS, JS)
 
-📫 rupamrwt070@gmail.com
+📫 rupamrwt055@gmail.com
