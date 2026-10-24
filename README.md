@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rupamr01/rupamr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Metrics](https://github.com/rupamr01/rupamr01/blob/main/github-metrics.svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+Second-year BCA student at Graphic Era Hill University, Dehradun (CGPA 8.5). I build practical tools from scratch and look for a **software internship**.
+
+### Projects
+
+- [**DOM Visualizer**](https://github.com/rupamr01/dom-visualizer): CLI tool in C that parses HTML and renders the DOM tree in the terminal
+- [**Gesture Remote**](https://github.com/rupamr01/gesture-remote): control a PC cursor from your phone using gestures (Python)
+- [**Videer**](https://github.com/rupamr01/videer): simple UI wrapper around yt-dlp (Python, HTML, CSS, JS)
+
+📫 rupamrwt070@gmail.com
