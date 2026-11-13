@@ -4,8 +4,9 @@
 
 ## About me
 - Developer
+- AI engineer
 - Building and learning continuously
-- Interested in web, automation, and productivity tools
+- Interested in AI, automation, and productivity tools
 
 ## Languages
 
